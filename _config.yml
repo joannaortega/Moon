@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Joanna Ortega
+bio:                'Current College Student. Writer. Potential Revolutionary.'
 description:        "We ride at midnight!"
 reading_time:       true
 words_per_minute:   200
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   joannaortega
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,9 +39,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            luridsnapdragon
 facebook:           username
-github-url:         username
+github-url:         https://github.com/joannaortega
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
