@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Operation: FemForEveryone
+excerpt: "My Push for Feminism for Everyone"
 comments: false
 ---

@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: post-list
+title: Operation: Literary Citizenship
+excerpt: "My Revolutionary Journey Through The Literary World"
 comments: false
 ---
