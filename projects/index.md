@@ -1,11 +1,11 @@
 ---
 layout: post-list
-title: Operation: Literary Citizenship
+title: "Operation: Literary Citizenship"
 excerpt: "My Revolutionary Journey Through The Literary World"
 comments: false
 ---
 
-#Operation: Literary Citizenship
+#"Operation: Literary Citizenship"
 
 #"My Revolutionary Journey Through the Literary World"
 
