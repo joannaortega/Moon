@@ -5,7 +5,6 @@ excerpt: "The Revolution for Feminism for Everyone"
 comments: false
 ---
 
-#"Operation: FemForEveryone"
 
 #"The Revolution for Feminism for Everyone"
 
