@@ -4,7 +4,7 @@ title: "My Revolutionary Journey Through the Literary World"
 date: 2018-09-20
 excerpt: Introduction to this section of my blog
 comments: false
-category: LitCitizenship
+categories: LitCitizenship
 tag: ilikeboyz
 ---
 

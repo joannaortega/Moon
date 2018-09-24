@@ -12,7 +12,7 @@ url:                https://joannaortega.github.io
 baseurl:            ''
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:categories/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:

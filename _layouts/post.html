@@ -33,10 +33,21 @@ layout: compress
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/FemForEveryone/">
                     {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/RandomThoughts/">    
+                    <a class="btn zoombtn" href="{{site.url}}/RandomThoughts/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
+                </div>
+                <div class="post-categories">
+                  {% if post %}
+                    {% assign categories = post.categories %}
+                  {% else %}
+                    {% assign categories = page.categories %}
+                  {% endif %}
+                  {% for category in categories %}
+                  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                  {% unless forloop.last %}&nbsp;{% endunless %}
+                  {% endfor %}
                 </div>
                 {{ content }}
                 <div class="entry-meta">
