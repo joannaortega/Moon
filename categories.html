@@ -22,18 +22,3 @@ title: categories
   </div>
 {% endfor %}
 </div>
-<div id="LitCitizenship"
-{% for post in site.categories.LitCitizenship %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
-<div id="FemForEveryone"
-{% for post in site.categories.FemForEveryone %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
-<div id="RandomThoughts"
-{% for post in site.categories.RandomThoughts %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
