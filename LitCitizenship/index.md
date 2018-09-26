@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Operation: Literary Citizenship
+title: Operation: LitCitizenship
 excerpt: "Idk. Will fix later."
 comments: false
 ---
