@@ -1,6 +1,6 @@
 ---
 layout: post-layout
-title: Classified: RandomThoughts
+title: Classified: Random Thoughts
 excerpt: "I'll fix this later"
 comments: false
 ---
