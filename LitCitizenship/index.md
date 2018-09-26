@@ -1,7 +1,7 @@
 ---
 layout: post-list
 title: Operation: Literary Citizenship
-excerpt: "Idk. Will fix later."
+excerpt: "A List of Posts"
 comments: false
 ---
 {% for post in site.categories.LitCitizenship %}

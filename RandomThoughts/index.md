@@ -1,7 +1,7 @@
 ---
-layout: post-layout
-title: Classified: Random Thoughts
-excerpt: "I'll fix this later"
+layout: post-list
+title: Operation: Random Thoughts
+excerpt: "A List of Posts"
 comments: false
 ---
 {% for post in site.categories.RandomThoughts %}
