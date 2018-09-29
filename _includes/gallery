@@ -13,7 +13,7 @@
         {% assign class = "" %}
 {% endcase %}
 
-<figure {% if class != "" %}class="{{ class }}"{% endif %}>
+<figure> {% if class != "" %}class="{{ class }}"{% endif %}>
     {% for image in images %}
     <a href="{{ image }}"><img src="{{ image }}" alt=""></a>
     {% endfor %}
