@@ -15,9 +15,8 @@ More Than A Stadium
 
 It's a powerful building. It's a cultural landmark.
 
-I will never claim to understand architecture. I look at this building and I think, Wow! That's beautiful. It's big, the biggest stadium in Texas to be exact.
+I will never claim to understand architecture. I look at this building and I think, Wow! That's beautiful. It's the biggest stadium in Texas to be exact, which is pretty stereotypical for the Texan lifestyle. I think that the person who designed the renovation did a great job. Aesthetically, it's stunning, and although I liked the old design, I love the improvements. I like the openness of the building with the exposed staircase and the big windows. I like the look of the brick and the contrast of the sign.
 
-I think that the person who designed the renovation did a great job. Aesthetically, it's stunning.
+I just know that I'm grateful to the architect that designed this stadium for providing me a place for stress relief and emotional expression, including the Hall of Champions, which is the place where I received my Aggie Ring.
 
-I just know that I'm grateful to the architect that designed this stadium for providing me a place for stress relief and emotional expression.
 I'm grateful he or she created a space of unity. A space where every fanatic, despite race, ethnicity, age, gender, generation, political ideology or any other form of identity, come together to the swaying of the sounds of the Aggie War Hymn. There is a lot in the world that makes us different. But in that stadium, all 102,733 of us are one. One 12th Man.
