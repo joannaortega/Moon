@@ -16,4 +16,6 @@ He portrayed Victor as a strong, African-American mother, who happens to be a na
 
 What resonated with me the most about LaValle was when he pointed out that you don't get to decide whether or not your book or work is political. Your work will be political. From that point, it is up to you to make sure what message you are putting forth in the world.
 
-I found LaValle to be an eloquent and mind-expanding speaker and author. He is very inspirational as well. I recommend you follow his work!
+I found LaValle to be an eloquent and mind-expanding speaker and author. He is very inspirational as well.
+
+Victor LaValle's Destroyer is out now! Available through Amazon and Target.
