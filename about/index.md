@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Operation\02D0 Who am I?
+title: Operation: Who am I?
 tags: [about, Jekyll, theme, moon]
 date: 2018-09-14
 comments: false
